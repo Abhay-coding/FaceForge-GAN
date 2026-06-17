@@ -275,7 +275,6 @@ Epoch 10  ──►  Eyes, noses, expressions — eerily recognizable faces
 > ⚠️ **Expected behavior:** A vanilla MLP-GAN will always have some graininess.
 > This is normal — fully-connected layers lack the spatial inductive bias of convolutions.
 > The goal here is learning adversarial training fundamentals, not photorealism.
-> For sharper output → see the roadmap below.
 
 <br/>
 
@@ -330,13 +329,12 @@ The **CelebA dataset** is provided by MMLAB, CUHK under their own terms. Please 
 
 ---
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=footer&text=Made%20with%20🔥%20by%20Abhay&desc=If%20this%20helped%20you%20understand%20GANs,%20smash%20that%20⭐&descAlignY=85&fontSize=22" width="100%"/>
 
-**Made with 🔥 by [Abhay](https://github.com/Abhay-coding)**
-
-*If this helped you understand GANs, smash that ⭐ — it genuinely motivates me to build more.*
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/Abhay-coding?style=social)](https://github.com/Abhay-coding)
 
